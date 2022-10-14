@@ -1,0 +1,26 @@
+h1{color:#B1B2FF;}/* CSS Document */
+h2{color:#AAC4FF;}/* CSS Document */
+h3{color:#D2DAFF;}/* CSS Document */
+h4{color:#FFD1D1;}/* CSS Document */
+h5{color:#FFE3E1;}/* CSS Document */
+h6{color:#FFE6F7;}/* CSS Document */
+body{
+	background-color:#EEF1FF;
+	color:#ADDDD0;
+	font-family: sans-serif;
+	font-size: 16px;
+	font-weight: normal;
+	line-height: 1.6em;
+ 	margin: 0;
+	
+}
+.container{
+	width: 80%;
+	margin: auto;
+	background-color:#06283D;
+	color:#DFF6FF;
+}
+.box-1{
+	background-color:#06283D;
+	color:#DFF6FF;
+}
